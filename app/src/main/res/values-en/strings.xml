@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YouTube Studio</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_analytics">Analytics</string>
+    <string name="tab_ai_coach">AI Coach</string>
+    <string name="tab_studio_tools">Studio Tools</string>
+    <string name="tab_workspace">Workspace</string>
+
+    <string name="title_dashboard">Channel Command Center</string>
+    <string name="title_monetization">Monetization &amp; YPP Center</string>
+    <string name="title_ai_coach">AI Growth Coach</string>
+    <string name="title_analytics">Advanced Channel Analytics</string>
+    <string name="title_video_analyzer">Video Analyzer &amp; Diagnosis</string>
+    <string name="title_channel_doctor">Channel Doctor &amp; 90-Day Roadmap</string>
+    <string name="title_settings">Settings &amp; Export</string>
+    <string name="title_workspace">Content Production Workspace</string>
+
+    <string name="subscribers">Subscribers</string>
+    <string name="views">Views</string>
+    <string name="watch_time_hours">Watch Time (Hours)</string>
+    <string name="ctr">Click-Through Rate (CTR)</string>
+    <string name="health_score">Channel Health Score</string>
+    <string name="today_action">What should I do today?</string>
+</resources>

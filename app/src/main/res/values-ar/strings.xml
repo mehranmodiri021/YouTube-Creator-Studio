@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YouTube Studio</string>
+    <string name="tab_dashboard">لوحة التحكم</string>
+    <string name="tab_analytics">التحليلات</string>
+    <string name="tab_ai_coach">مدرب النمو AI</string>
+    <string name="tab_studio_tools">أدوات الاستودیو</string>
+    <string name="tab_workspace">مساحة العمل</string>
+
+    <string name="title_dashboard">لوحة التحكم المركزية للقناة</string>
+    <string name="title_monetization">مركز تحقيق الدخل والربح</string>
+    <string name="title_ai_coach">مدرب الذكاء الاصطناعي للنمو</string>
+    <string name="title_analytics">تحليلات القناة المتقدمة</string>
+    <string name="title_video_analyzer">تحليل وتشخيص الفيديو</string>
+    <string name="title_channel_doctor">طبيب القناة وخطة الـ 90 يوماً</string>
+    <string name="title_settings">الإعدادات والتصدير</string>
+    <string name="title_workspace">مساحة إنتاج المحتوى</string>
+
+    <string name="subscribers">المشتركون (Subscribers)</string>
+    <string name="views">المشاهدات (Views)</string>
+    <string name="watch_time_hours">ساعات المشاهدة</string>
+    <string name="ctr">نسبة النقر للظهور (CTR)</string>
+    <string name="health_score">معدل صحة القناة</string>
+    <string name="today_action">ماذا يجب أن أفعل اليوم؟</string>
+</resources>

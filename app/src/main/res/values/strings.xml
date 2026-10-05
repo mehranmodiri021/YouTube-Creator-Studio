@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YouTube Studio</string>
+    <string name="tab_dashboard">داشبورد</string>
+    <string name="tab_analytics">آنالیتیکس</string>
+    <string name="tab_ai_coach">مربی رشد AI</string>
+    <string name="tab_studio_tools">ابزارهای استودیو</string>
+    <string name="tab_workspace">فضای کار</string>
+
+    <string name="title_dashboard">داشبورد مرکزی کانال</string>
+    <string name="title_monetization">مرکز درآمدزایی و مانیتایز</string>
+    <string name="title_ai_coach">مربی هوشمند رشد</string>
+    <string name="title_analytics">تحلیل پیشرفته کانال</string>
+    <string name="title_video_analyzer">آنالایزر و عارضه‌یابی ویدیو</string>
+    <string name="title_channel_doctor">پزشک کانال و نقشه راه ۹۰ روزه</string>
+    <string name="title_settings">تنظیمات، چندکاناله و خروجی</string>
+    <string name="title_workspace">میزکار تولید محتوا</string>
+
+    <string name="subscribers">دنبال‌کننده (Subscribers)</string>
+    <string name="views">بازدید (Views)</string>
+    <string name="watch_time_hours">ساعات واچ‌تایم</string>
+    <string name="ctr">نرخ کلیک (CTR)</string>
+    <string name="health_score">نمره سلامت کانال</string>
+    <string name="today_action">امروز چه کاری انجام بدهم؟</string>
+</resources>

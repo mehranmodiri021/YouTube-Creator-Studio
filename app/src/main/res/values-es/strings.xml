@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YouTube Studio</string>
+    <string name="tab_dashboard">Panel</string>
+    <string name="tab_analytics">Estadísticas</string>
+    <string name="tab_ai_coach">Coach de IA</string>
+    <string name="tab_studio_tools">Herramientas</string>
+    <string name="tab_workspace">Espacio de Trabajo</string>
+
+    <string name="title_dashboard">Centro de Comando del Canal</string>
+    <string name="title_monetization">Monetización y Programa YPP</string>
+    <string name="title_ai_coach">Coach de Crecimiento de IA</string>
+    <string name="title_analytics">Estadísticas Avanzadas del Canal</string>
+    <string name="title_video_analyzer">Analizador y Diagnóstico de Video</string>
+    <string name="title_channel_doctor">Doctor de Canal y Plan de 90 Días</string>
+    <string name="title_settings">Ajustes y Exportación</string>
+    <string name="title_workspace">Espacio de Producción de Contenido</string>
+
+    <string name="subscribers">Suscriptores</string>
+    <string name="views">Vistas</string>
+    <string name="watch_time_hours">Horas de Reproducción</string>
+    <string name="ctr">Porcentaje de Clics (CTR)</string>
+    <string name="health_score">Puntuación de Salud del Canal</string>
+    <string name="today_action">¿Qué debo hacer hoy?</string>
+</resources>

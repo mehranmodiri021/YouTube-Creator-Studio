@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YouTube Studio</string>
+    <string name="tab_dashboard">Kontrol Paneli</string>
+    <string name="tab_analytics">Analitik</string>
+    <string name="tab_ai_coach">AI Büyüme Koçu</string>
+    <string name="tab_studio_tools">Stüdyo Araçları</string>
+    <string name="tab_workspace">Çalışma Alanı</string>
+
+    <string name="title_dashboard">Kanal Komuta Merkezi</string>
+    <string name="title_monetization">Para Kazanma ve YPP Merkezi</string>
+    <string name="title_ai_coach">Yapay Zeka Büyüme Koçu</string>
+    <string name="title_analytics">Gelişmiş Kanal Analitiği</string>
+    <string name="title_video_analyzer">Video Analiz ve Teşhis</string>
+    <string name="title_channel_doctor">Kanal Doktoru ve 90 Günlük Plan</string>
+    <string name="title_settings">Ayarlar ve Dışa Aktarma</string>
+    <string name="title_workspace">İçerik Üretim Alanı</string>
+
+    <string name="subscribers">Abone Sayısı</string>
+    <string name="views">İzlenmeler</string>
+    <string name="watch_time_hours">İzlenme Süresi (Saat)</string>
+    <string name="ctr">Tıklama Oranı (CTR)</string>
+    <string name="health_score">Kanal Sağlık Puanı</string>
+    <string name="today_action">Bugün ne yapmalıyım?</string>
+</resources>

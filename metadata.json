@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Creator Studio",
+  "description": "استودیوی همه‌جانبه یوتیوب برای تولیدکنندگان محتوا با هوش مصنوعی و تحلیل حرفه‌ای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
